@@ -3,3 +3,4 @@ vmess://eyJhZGQiOiJ3d3cudmlzYS5jb20uc2ciLCJhaWQiOiIwIiwiaG9zdCI6InBhdGNoZXMtbWl0
 vmess://eyJhZGQiOiIxNDIuMTcxLjcuMjQ4IiwiYWlkIjoiMCIsImhvc3QiOiJ3d3cuYmluZy5jb20iLCJpZCI6ImMwZWYyZDdjLWQ4MzctNDlhOC05ZDU2LWNjOGNkMjczM2M0NSIsIm5ldCI6IndzIiwicGF0aCI6ImMwZWYyZDdjLWQ4MzctNDlhOC05ZDU2LWNjOGNkMjczM2M0NS12bSIsInBvcnQiOiIyMDk1IiwicHMiOiJ2bS13cy1yYWNrbmVyZC04MjFhOGUiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0K
 hysteria2://c0ef2d7c-d837-49a8-9d56-cc8cd2733c45@142.171.7.248:8541?&alpn=h3&insecure=1&mport=8541,50000-60000&sni=www.bing.com#hy2-racknerd-821a8e
 tuic://c0ef2d7c-d837-49a8-9d56-cc8cd2733c45:c0ef2d7c-d837-49a8-9d56-cc8cd2733c45@142.171.7.248:7475?congestion_control=bbr&udp_relay_mode=native&alpn=h3&sni=www.bing.com&allow_insecure=1#tu5-racknerd-821a8e
+hy2://df9de286@156.254.114.144:64470?insecure=1&sni=www.bing.com#香港Hysteria2
