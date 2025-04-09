@@ -1,6 +1,6 @@
 # NAME: Home
 # AUTHOR: Linainai
 # UPDATED: 2025-04-09
-# ip-cidr: 1
+# IP-CIDR: 1
 # TOTAL: 1
-ip-cidr, 192.168.5.0/24, Home
+IP-CIDR, 192.168.5.0/24, Home
