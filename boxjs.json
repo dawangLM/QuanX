@@ -1,0 +1,39 @@
+{
+  "id": "china_unicom_tasks",
+  "name": "中国联通全功能合集",
+  "author": "@YaoHuo8648",
+  "icon": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/unicom.png",
+  "repo": "https://raw.githubusercontent.com/YourRepo/china_unicom.js",
+  "apps": [
+    {
+      "id": "UnicomTask",
+      "name": "中国联通",
+      "keys": [
+        "chinaUnicomCookie",
+        "unicom_grab_done"
+      ],
+      "settings": [
+        {
+          "id": "chinaUnicomCookie",
+          "name": "联通账号数据 (Cookie)",
+          "val": "",
+          "type": "textarea",
+          "placeholder": "格式: Token#AppId",
+          "desc": "QX自动抓取后会显示在这里。手动输入请确保格式正确[span_1](start_span)[span_1](end_span)。"
+        },
+        {
+          "id": "unicom_grab_done",
+          "name": "抓取标志位",
+          "val": "false",
+          "type": "boolean",
+          "desc": "设为 false 可强制脚本在下次打开 App 时重新抓取 Token[span_2](start_span)[span_2](end_span)。"
+        }
+      ],
+      "desc": "本应用配合 Quantumult X 联通脚本使用，实现 Token 管理与任务配置[span_3](start_span)[span_3](end_span)。",
+      "icons": [
+        "https://raw.githubusercontent.com/Orz-3/mini/master/Color/unicom.png",
+        "https://raw.githubusercontent.com/Orz-3/mini/master/Color/unicom.png"
+      ]
+    }
+  ]
+}
